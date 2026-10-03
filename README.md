@@ -1,2 +1,3 @@
-# .github
-Ropumi public organization profile
+# Ropumi organization profile
+
+Public profile content only. Product repositories are private.
